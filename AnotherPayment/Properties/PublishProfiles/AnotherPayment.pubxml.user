@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+您 Web 项目的发布/打包进程将使用此文件。您可以通过编辑此 MSBuild 文件
+来自定义该进程的行为。若要了解与此相关的详细信息，请访问 http://go.microsoft.com/fwlink/?LinkID=208121。
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\发布\AnotherPayment</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="AddAttach.aspx">
+      <publishTime>08/06/2014 23:26:49</publishTime>
+    </File>
+    <File Include="AddCoupon.aspx">
+      <publishTime>08/06/2014 22:38:51</publishTime>
+    </File>
+    <File Include="AddTelePhone.aspx">
+      <publishTime>08/09/2014 00:50:47</publishTime>
+    </File>
+    <File Include="Admin.aspx">
+      <publishTime>08/09/2014 00:46:32</publishTime>
+    </File>
+    <File Include="AttachUpload.aspx">
+      <publishTime>08/06/2014 22:56:58</publishTime>
+    </File>
+    <File Include="bin/AnotherPayment.dll">
+      <publishTime>08/12/2014 01:39:53</publishTime>
+    </File>
+    <File Include="Login.aspx">
+      <publishTime>08/06/2014 22:56:58</publishTime>
+    </File>
+    <File Include="Manage.aspx">
+      <publishTime>08/06/2014 23:01:28</publishTime>
+    </File>
+    <File Include="SearchAllPhone.aspx">
+      <publishTime>08/12/2014 00:33:08</publishTime>
+    </File>
+    <File Include="SearchAttach.aspx">
+      <publishTime>08/09/2014 00:45:18</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>08/12/2014 01:39:53</publishTime>
+    </File>
+    <File Include="XmlDoc/XmlDocHelper.xml">
+      <publishTime>08/12/2014 01:37:56</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

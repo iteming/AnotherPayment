@@ -1,0 +1,8 @@
+D:\项目\WebDevelopMent\AnotherPayment\AnotherPayment\AnotherPayment\bin\AnotherPayment.dll
+D:\项目\WebDevelopMent\AnotherPayment\AnotherPayment\AnotherPayment\bin\AnotherPayment.pdb
+D:\项目\WebDevelopMent\AnotherPayment\AnotherPayment\AnotherPayment\obj\Debug\AnotherPayment.dll
+D:\项目\WebDevelopMent\AnotherPayment\AnotherPayment\AnotherPayment\obj\Debug\AnotherPayment.pdb
+D:\项目\WebDevelop\AnotherPayment\AnotherPayment\AnotherPayment\bin\AnotherPayment.dll
+D:\项目\WebDevelop\AnotherPayment\AnotherPayment\AnotherPayment\bin\AnotherPayment.pdb
+D:\项目\WebDevelop\AnotherPayment\AnotherPayment\AnotherPayment\obj\Debug\AnotherPayment.dll
+D:\项目\WebDevelop\AnotherPayment\AnotherPayment\AnotherPayment\obj\Debug\AnotherPayment.pdb
